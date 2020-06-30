@@ -3,10 +3,42 @@
 
 ## Sobre o desafio 🚀
 
-Foi desenvolvido uma aplicação que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend(Desafio 2 GoStack) utilizando o Node.js, e no último desafio em ReactJS.
+Foi desenvolvido uma aplicação em react native que irá armazenar repositórios do seu portfólio, que você já desenvolveu o backend(Desafio 2 GoStack) utilizando o Node.js, e no último desafio em ReactJS.
 
 ## Funcionalidades da aplicação
 
 Listar os repositórios da sua API: Deve ser capaz de criar uma lista de todos os repositórios que estão cadastrados na sua API com os campos title, techs e número de curtidas seguindo o padrão ${repository.likes} curtidas, apenas alterando o número para ser dinâmico.
 
 Curtir um repositório listado da API: Deve ser capaz de curtir um item na sua API através de um botão com o texto Curtir e deve atualizar o número de likes na listagem no mobile.
+
+## Instalação
+
+Utilize os comandos para instalar as dependencias:
+
+```sh
+npm install 
+or
+yarn
+or
+yarn instal
+```
+
+## Configuração para Desenvolvimento
+
+Para executar a aplicação:
+
+```
+yarn start
+```
+
+Para executar os testes:
+
+```
+yarn test
+```
+
+## Meta
+
+Pedro Lisboa – [@Pedro-lbrt](https://www.linkedin.com/in/pedro-lbrt/...) – pegu_lisboa@hotmail.com
+
+[https://github.com/pedro-lisboa/GoBarber-backend](https://github.com/pedro-lisboa/)
